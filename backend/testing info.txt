@@ -1,0 +1,3 @@
+store name : Shri Medicines
+store add : kolhapur
+Store Owner Name : amey
